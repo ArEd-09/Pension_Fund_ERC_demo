@@ -18,7 +18,11 @@ Using the Compustat database since 2000, we selected 1000 North American compani
 
 ## 🛠️ Technology Stack
 * **Python 3.9+**
-* **Frontend:** `Streamlit`
+* **Frontend & Visualization:** Streamlit, Plotly
+* **Numerical Computing:** NumPy, Pandas
+* **Optimization & Statistics:** SciPy (Optimization), CVXPY
+* **Financial Modeling:** scikit-learn (Ledoit-Wolf covariance estimation)
+* **Utilities:** FPDF (for report generation)
 
 ## ⚙️ Installation & Usage
 
