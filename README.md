@@ -18,7 +18,7 @@ Using the Compustat database since 2000, we selected 1000 North American compani
 
 ## 🛠️ Technology Stack
 * **Python 3.9+**
-* **Core Libraries:** `pandas`, `numpy`, `scipy`, `matplotlib`/`plotly`
+* **Requirements:** `pandas`, `numpy`, `scipy`, `plotly`
 * **Frontend:** `Streamlit`
 
 ## ⚙️ Installation & Usage
